@@ -1,0 +1,40 @@
+
+body {
+  background-color: black;
+  color: #222222;
+}
+
+
+#ACS {
+background-color: white;
+width: 300px;
+text-align: center;
+text-transform: uppercase;
+}
+
+#AC {
+font-weight: bold;
+font-size: 32px;
+}
+
+#chevron {
+color: #d31f43;
+}
+
+#access {
+font-family: Helvetica;
+color: black;
+}
+
+#code {
+font-family: Helvetica;
+background-color: #d31f43;
+padding: 3px;
+color: white;
+}
+
+#school {
+font-family: Helvetica;
+text-decoration: overline;
+
+}
