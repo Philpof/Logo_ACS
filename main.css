@@ -7,9 +7,11 @@ body {
 
 #ACS {
 background-color: white;
+background-size: ;
 width: 300px;
 text-align: center;
 text-transform: uppercase;
+
 }
 
 #AC {
@@ -35,6 +37,10 @@ color: white;
 
 #school {
 font-family: Helvetica;
-text-decoration: overline;
+border-top: solid 1px black;
+letter-spacing: 2rem;
+width: 20rem;
+text-align: center;
+align-self: center;
 
 }
